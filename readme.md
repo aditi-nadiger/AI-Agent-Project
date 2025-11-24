@@ -39,8 +39,8 @@ The application follows a standard **Python/Flask monolithic architecture** to m
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository Link]
-    cd AI-Interview-Partner
+    git clone (https://github.com/aditi-nadiger/AI-Agent-Projecy-.git)
+    cd AI-Agent-Project
     ```
 
 2.  **Install Dependencies:**
@@ -63,5 +63,6 @@ The application follows a standard **Python/Flask monolithic architecture** to m
     python app.py
     ```
     The application will start on `http://127.0.0.1:5000/`.
+
 
 5.  **Start Interview:** Open your browser to the provided address and follow the setup steps.
