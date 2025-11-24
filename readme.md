@@ -39,7 +39,7 @@ The application follows a standard **Python/Flask monolithic architecture** to m
 
 1.  **Clone the Repository:**
     ```bash
-    git clone (https://github.com/aditi-nadiger/AI-Agent-Projecy-.git)
+    git clone (https://github.com/aditi-nadiger/AI-Agent-Project-.git)
     cd AI-Agent-Project
     ```
 
@@ -66,3 +66,4 @@ The application follows a standard **Python/Flask monolithic architecture** to m
 
 
 5.  **Start Interview:** Open your browser to the provided address and follow the setup steps.
+
